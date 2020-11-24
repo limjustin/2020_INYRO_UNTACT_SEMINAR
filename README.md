@@ -1,6 +1,7 @@
 # 2020_INYRO_UNTACT_SEMINAR
 
 **발표자**
+
 limjustin[https://github.com/limjustin]
 
 jiminAn[https://github.com/jiminAn]
