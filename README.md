@@ -2,9 +2,9 @@
 
 **발표자**
 
-**1부** : **[limjustin](https://github.com/limjustin)**
+**1부** : 휴먼지능정보공학과 19학번 **[임재영(limjustin)](https://github.com/limjustin)**
 
-**2부** : **[jiminAn](https://github.com/jiminAn)**
+**2부** : 컴퓨터과학과 18학번 **[안지민(jiminAn)](https://github.com/jiminAn)**
 
 <br>
 
