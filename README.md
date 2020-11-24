@@ -6,7 +6,7 @@
 
 **방법** : Youtube Online Streaming
 
-
+<br>
 
 **1부 (14 : 00 ~ 14 : 40)**
 
@@ -19,6 +19,17 @@
 **주제** : GUI를 사용한 깃허브 관리법과 팀 프로젝트 운영 방법
 
 **발표자** : 컴퓨터과학과 18학번 [안지민](https://github.com/jiminAn)
+
+<br>
+
+**Day 1 Live link**
+
+https://youtu.be/x9ZKrkHfmEY
+
+**Day 2 Live link**
+
+https://youtu.be/ToCIA9Fj82M
+
 
 
 
