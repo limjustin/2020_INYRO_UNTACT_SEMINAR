@@ -2,9 +2,9 @@
 
 **발표자**
 
-**limjustin[https://github.com/limjustin]**
+**1부 : limjustin[https://github.com/limjustin]**
 
-**jiminAn[https://github.com/jiminAn]**
+**2부 : jiminAn[https://github.com/jiminAn]**
 
 <br>
 
