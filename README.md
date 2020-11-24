@@ -6,7 +6,7 @@
 
 **2부** : 컴퓨터과학과 18학번 [안지민(jiminAn)](https://github.com/jiminAn)
 
-<br>
+----------
 
 **Day 1 Live link**
 
@@ -16,7 +16,7 @@ https://youtu.be/x9ZKrkHfmEY
 
 https://youtu.be/ToCIA9Fj82M
 
-<br>
+----------
 
 **메인 포스터**
 
