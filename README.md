@@ -1,5 +1,3 @@
-# 2020_INYRO_UNTACT_SEMINAR
-
 **발표자**
 
 **1부** : 휴먼지능정보공학과 19학번 [임재영(limjustin)](https://github.com/limjustin)
