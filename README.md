@@ -8,13 +8,13 @@
 
 <br>
 
-**1부 (14 : 00 ~ 14 : 40)**
+**1부 Session**
 
 **주제** : 깃허브 명령어 사용법과 개인 포트폴리오 관리
 
 **발표자** : 휴먼지능정보공학과 19학번 [임재영](https://github.com/limjustin)
 
-**2부 (14 : 50 ~ 15 : 30)**
+**2부 Session**
 
 **주제** : GUI를 사용한 깃허브 관리법과 팀 프로젝트 운영 방법
 
@@ -30,8 +30,7 @@ https://youtu.be/x9ZKrkHfmEY
 
 https://youtu.be/ToCIA9Fj82M
 
-
-
+<br>
 
 **메인 포스터**
 
