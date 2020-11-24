@@ -9,7 +9,7 @@
 ----------
 
 **Day 1 Live link**
-
+[![Day 1](https://img.youtube.com/vi/x9ZKrkHfmEY/0.jpg)](https://www.youtube.com/watch?v=x9ZKrkHfmEY)
 https://youtu.be/x9ZKrkHfmEY
 
 **Day 2 Live link**
