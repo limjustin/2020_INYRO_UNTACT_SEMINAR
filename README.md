@@ -1,27 +1,5 @@
 # 2020_INYRO_UNTACT_SEMINAR
 
-**날짜** : 2020.11.21(토) ~ 22(일), 2일 간
-
-**시간** : 매일 14시 ~ 15시 30분
-
-**방법** : Youtube Online Streaming
-
-<br>
-
-**1부 Session**
-
-**주제** : 깃허브 명령어 사용법과 개인 포트폴리오 관리
-
-**발표자** : 휴먼지능정보공학과 19학번 [임재영](https://github.com/limjustin)
-
-**2부 Session**
-
-**주제** : GUI를 사용한 깃허브 관리법과 팀 프로젝트 운영 방법
-
-**발표자** : 컴퓨터과학과 18학번 [안지민](https://github.com/jiminAn)
-
-<br>
-
 **Day 1 Live link**
 
 https://youtu.be/x9ZKrkHfmEY
