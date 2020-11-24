@@ -2,9 +2,11 @@
 
 **발표자**
 
-limjustin[https://github.com/limjustin]
+- **limjustin[https://github.com/limjustin]**
 
-jiminAn[https://github.com/jiminAn]
+- **jiminAn[https://github.com/jiminAn]**
+
+<br>
 
 **Day 1 Live link**
 
