@@ -22,6 +22,6 @@ https://youtu.be/ToCIA9Fj82M
 
 
 
-**이니로 부원들만 대상으로 진행하는 이벤트 포스터**
+**퀴즈 이벤트 포스터**
 
 <img src = "https://user-images.githubusercontent.com/55044278/100056904-c797f300-2e69-11eb-91fb-6f35d23338a0.png" height = "500px">
